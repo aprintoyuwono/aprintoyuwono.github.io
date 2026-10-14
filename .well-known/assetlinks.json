@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.semestaku.orbitfit",
+      "sha256_cert_fingerprints": [
+        "C5:80:03:A3:56:19:DC:77:8C:30:9E:87:96:08:63:C6:33:ED:E5:BF:CD:04:57:F4:09:13:58:29:F5:CF:D9:05"
+      ]
+    }
+  }
+]
